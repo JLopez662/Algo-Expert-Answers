@@ -22,7 +22,7 @@ The repository consists of 16 folders, one for each type of exercise. The folder
 - [`Strings`](https://github.com/JLopez662/Algo-Expert-Answers/tree/main/Strings)
 - [`Tries`](https://github.com/JLopez662/Algo-Expert-Answers/tree/main/Tries)
 
-Each folder contains several C++ files, each corresponding to one exercise. The naming convention for the files is `exercise_N.cpp`, where `N` is the number of the exercise. In addition, there is a `README.md` file in each folder, with a brief description of the exercises included.
+Each folder contains several C++ files, each corresponding to one exercise. The naming convention for the files is `exercise_N.cpp`,given the name and type of file for the exercise. 
 
 
 You can use these solutions to check your own answers or as a reference to learn new approaches to solving coding problems. However, keep in mind that simply copying these solutions without understanding them will not help you in the long run.
