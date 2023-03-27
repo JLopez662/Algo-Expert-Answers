@@ -31,3 +31,8 @@ You can use these solutions to check your own answers or as a reference to learn
 
 All exercises and descriptions are taken from AlgoExpert. The solutions are my own implementation and may not be the most optimal or efficient solutions.
 But tried my best for sure.
+
+
+## Certificate
+
+You can see my AlgoExpert certificate [here](https://github.com/JLopez662/Algo-Expert-Answers/blob/main/AlgoExpert_Certificate.pdf).4
