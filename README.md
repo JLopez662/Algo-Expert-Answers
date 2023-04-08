@@ -36,3 +36,4 @@ But tried my best for sure.
 ## Certificate
 
 You can see my AlgoExpert certificate [here](https://github.com/JLopez662/Algo-Expert-Answers/blob/main/AlgoExpert_Certificate.pdf).
+[direct link](https://certificate.algoexpert.io/AE-0cd38d407d).
