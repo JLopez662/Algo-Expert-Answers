@@ -1,6 +1,6 @@
 # Solutions for 100+ AlgoExpert Exercises
 
-This repository contains the solutions for 100 exercises from AlgoExpert, a platform that provides curated interview prep material for software engineers. Each exercise is a coding question related to algorithms, data structures, or system design.
+This repository contains the solutions for more than 100 exercises from AlgoExpert, a platform that provides curated interview prep material for software engineers. Each exercise is a coding question related to algorithms, data structures, or system design.
 
 ## Content
 
