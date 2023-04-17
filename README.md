@@ -38,5 +38,5 @@ But tried my best for sure.
 You can see my AlgoExpert certificate [here](https://github.com/JLopez662/Algo-Expert-Answers/blob/main/AlgoExpert_Certificate.pdf).
 [direct link](https://certificate.algoexpert.io/AE-0cd38d407d).
 
-You can see my FreeCodeCamp certificate [here](https://github.com/JLopez662/Algo-Expert-Answers/blob/main/Javascript%20Algorithms%20and%20DS%20Certificate%20(1).pdf).
+You can see my FreeCodeCamp certificate [here](https://github.com/JLopez662/Algo-Expert-Answers/blob/main/Javascript%20Algorithms%20and%20DS%20Certificate.pdf).
 [direct link](https://www.freecodecamp.org/certification/JorgeZx/javascript-algorithms-and-data-structures).
