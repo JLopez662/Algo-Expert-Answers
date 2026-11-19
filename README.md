@@ -4,7 +4,7 @@ This repository contains the solutions for more than 100 exercises from AlgoExpe
 
 ## Content
 
-The repository consists of 16 folders, one for each type of exercise. The folders are named as follows:
+The repository consists of 15 folders, one for each type of exercise. The folders are named as follows:
 
 - [`Arrays`](https://github.com/JLopez662/Algo-Expert-Answers/tree/main/Arrays)
 - [`Binary Search Trees`](https://github.com/JLopez662/Algo-Expert-Answers/tree/main/Binary%20Search%20Trees)
@@ -22,7 +22,7 @@ The repository consists of 16 folders, one for each type of exercise. The folder
 - [`Strings`](https://github.com/JLopez662/Algo-Expert-Answers/tree/main/Strings)
 - [`Tries`](https://github.com/JLopez662/Algo-Expert-Answers/tree/main/Tries)
 
-Each folder contains several C++ files, each corresponding to one exercise. The naming convention for the files is `exercise_N.cpp`,given the name and type of file for the exercise. 
+Each file is one exercise, named after it (for example, `Two Number Sum.cpp`). Most solutions are in C++, with some in VB.NET, JavaScript, Python and Java.
 
 
 You can use these solutions to check your own answers or as a reference to learn new approaches to solving coding problems. However, keep in mind that simply copying these solutions without understanding them will not help you in the long run.
